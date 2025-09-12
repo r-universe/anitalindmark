@@ -5,3 +5,6 @@
 [submodule "sensmediation"]
 	path = sensmediation
 	url = https://github.com/cran/sensmediation
+[submodule "truncSP"]
+	path = truncSP
+	url = https://github.com/cran/truncSP
